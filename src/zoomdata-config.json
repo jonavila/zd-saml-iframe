@@ -1,0 +1,6 @@
+{
+  "host": "test-developer.zoomdata.com",
+  "path": "/zoomdata-3",
+  "port": 8443,
+  "secure": true
+}
